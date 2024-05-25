@@ -1,0 +1,17 @@
+{
+    "id": "set-list",
+    "name": "app设置页面插件set-list 设置列表",
+    "displayName": "app设置页面插件set-list 设置列表",
+    "version": "1.0.4",
+    "description": "app设置页面插件set-list 设置列表",
+    "keywords": [
+        "设置",
+        "列表"
+    ],
+    "dcloudext": {
+        "category": [
+            "前端组件",
+            "通用组件"
+        ]
+    }
+}
